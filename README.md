@@ -20,9 +20,10 @@ You can get a local copy of these notes up and running in two simple ways:
 ### Option 1: Download as ZIP (Quickest)
 1.  Click the green **"Code"** button near the top of this page.
 2.  Select **"Download ZIP"** from the dropdown menu.
-![](attachments\github.png)
 
-3.  Extract the downloaded ZIP file to a folder on your computer.
+![](attachments/github.png)
+
+4.  Extract the downloaded ZIP file to a folder on your computer.
 
 ### Option 2: Clone the Repository (For Git users)
 If you have Git installed, open your terminal or command prompt and run:
