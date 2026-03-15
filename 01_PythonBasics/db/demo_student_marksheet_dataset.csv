@@ -1,151 +1,80 @@
 Student_ID,Name,Age,Address,Malayalam,English,Hindi,Social_Science,Physics,Chemistry,Biology,Mathematics,Information_Technology,Total,Percentage
-STD001,Dashamoolam Damu Nair,16,"439, Lake View, Kochi",40,57,49,78,91,47,48,78,81,569,63.22
-STD002,Dashamoolam Damu Menon,18,"588, River Side, Kozhikode",68,100,74,45,70,54,45,62,88,606,67.33
-STD003,Dashamoolam Damu Pillai,15,"831, Lake View, Malappuram",44,92,55,65,66,58,76,89,88,633,70.33
-STD004,Dashamoolam Damu Varma,16,"85, Station Road, Kochi",80,73,44,68,46,64,71,95,60,601,66.78
-STD005,Dashamoolam Damu Kurup,16,"844, Lake View, Malappuram",90,51,52,51,81,46,81,65,90,607,67.44
-STD006,Dashamoolam Damu Panicker,17,"641, MG Road, Kottayam",95,96,66,49,96,98,76,44,68,688,76.44
-STD007,Dashamoolam Damu Nambiar,17,"88, Lake View, Kozhikode",59,80,72,92,86,47,59,54,84,633,70.33
-STD008,Dashamoolam Damu Warrier,15,"681, College Road, Kottayam",55,64,42,62,49,83,48,87,67,557,61.89
-STD009,Dashamoolam Damu Mathew,15,"666, MG Road, Kannur",71,52,61,74,76,64,56,90,41,585,65.0
-STD010,Dashamoolam Damu Joseph,17,"791, Market Road, Thrissur",50,58,48,75,42,73,87,98,68,599,66.56
-STD011,Dashamoolam Damu Chacko,17,"933, Lake View, Thrissur",72,90,91,91,83,61,65,44,52,649,72.11
-STD012,Dashamoolam Damu Fernandes,18,"560, Station Road, Kottayam",90,87,60,91,93,79,49,73,50,672,74.67
-STD013,Dashamoolam Damu Khan,17,"980, Temple Road, Malappuram",50,61,54,75,61,51,64,63,88,567,63.0
-STD014,Dashamoolam Damu Haji,18,"268, Garden Lane, Malappuram",56,61,46,51,61,98,58,45,49,525,58.33
-STD015,Dashamoolam Damu Siddique,16,"247, Garden Lane, Malappuram",74,52,54,68,84,78,45,67,46,568,63.11
-STD016,Ramanan Nair,15,"896, Airport Road, Kozhikode",43,89,95,88,56,64,92,83,95,705,78.33
-STD017,Ramanan Menon,16,"708, Airport Road, Malappuram",58,66,93,69,64,86,73,64,82,655,72.78
-STD018,Ramanan Pillai,15,"940, Station Road, Thrissur",80,91,67,81,78,61,67,47,46,618,68.67
-STD019,Ramanan Varma,16,"440, Market Road, Kozhikode",60,74,72,88,96,58,62,73,58,641,71.22
-STD020,Ramanan Kurup,15,"672, Station Road, Kozhikode",49,85,43,57,68,51,95,76,85,609,67.67
-STD021,Ramanan Panicker,18,"232, Hill Street, Alappuzha",60,82,40,85,57,88,94,58,96,660,73.33
-STD022,Ramanan Nambiar,16,"489, College Road, Kannur",40,54,79,60,52,95,58,41,46,525,58.33
-STD023,Ramanan Warrier,16,"916, Lake View, Palakkad",41,78,65,98,76,71,49,42,51,571,63.44
-STD024,Ramanan Mathew,15,"294, Market Road, Palakkad",57,85,60,41,87,84,84,94,61,653,72.56
-STD025,Ramanan Joseph,18,"71, Market Road, Kozhikode",78,46,84,43,100,69,42,97,43,602,66.89
-STD026,Ramanan Chacko,16,"564, Lake View, Trivandrum",41,79,56,84,51,83,80,52,89,615,68.33
-STD027,Ramanan Fernandes,17,"245, Garden Lane, Malappuram",52,65,65,79,95,96,84,92,68,696,77.33
-STD028,Ramanan Khan,16,"577, Garden Lane, Palakkad",84,59,44,90,50,93,60,90,48,618,68.67
-STD029,Ramanan Haji,17,"260, College Road, Trivandrum",59,54,76,44,80,90,96,48,80,627,69.67
-STD030,Ramanan Siddique,18,"749, River Side, Kochi",52,59,77,76,61,82,47,44,68,566,62.89
-STD031,CID Moosa Nair,18,"132, College Road, Kochi",49,62,61,89,40,65,55,50,83,554,61.56
-STD032,CID Moosa Menon,18,"463, Airport Road, Kozhikode",72,59,48,88,80,89,89,51,92,668,74.22
-STD033,CID Moosa Pillai,17,"372, Garden Lane, Kochi",58,42,40,74,66,82,65,52,96,575,63.89
-STD034,CID Moosa Varma,16,"505, Airport Road, Kollam",62,74,74,81,65,86,58,94,98,692,76.89
-STD035,CID Moosa Kurup,17,"301, Garden Lane, Palakkad",73,41,94,53,88,48,71,71,75,614,68.22
-STD036,CID Moosa Panicker,17,"831, Hill Street, Malappuram",75,55,86,53,59,51,100,42,68,589,65.44
-STD037,CID Moosa Nambiar,15,"526, Market Road, Kollam",48,96,98,55,61,90,99,63,67,677,75.22
-STD038,CID Moosa Warrier,15,"348, Lake View, Kottayam",63,50,80,98,70,60,45,75,59,600,66.67
-STD039,CID Moosa Mathew,18,"980, MG Road, Kottayam",50,76,68,79,66,91,63,71,84,648,72.0
-STD040,CID Moosa Joseph,16,"108, MG Road, Kannur",100,44,52,65,88,83,80,89,57,658,73.11
-STD041,CID Moosa Chacko,15,"322, Garden Lane, Alappuzha",98,41,77,65,44,55,81,67,52,580,64.44
-STD042,CID Moosa Fernandes,16,"10, Airport Road, Malappuram",48,61,56,81,81,80,73,59,45,584,64.89
-STD043,CID Moosa Khan,16,"835, Hill Street, Kochi",70,69,96,81,58,71,89,66,42,642,71.33
-STD044,CID Moosa Haji,17,"86, Station Road, Kottayam",80,68,90,99,52,90,52,84,96,711,79.0
-STD045,CID Moosa Siddique,15,"171, College Road, Kollam",98,80,92,41,83,54,78,93,55,674,74.89
-STD046,Advocate Mukundan Nair,17,"180, Hill Street, Malappuram",45,76,44,88,98,100,100,44,84,679,75.44
-STD047,Advocate Mukundan Menon,17,"548, Airport Road, Malappuram",94,61,44,59,69,79,63,88,87,644,71.56
-STD048,Advocate Mukundan Pillai,17,"796, MG Road, Kollam",83,62,51,73,99,89,72,84,54,667,74.11
-STD049,Advocate Mukundan Varma,15,"317, Hill Street, Kollam",61,65,65,43,91,89,48,67,74,603,67.0
-STD050,Advocate Mukundan Kurup,15,"861, Temple Road, Kochi",94,67,49,98,75,60,72,54,66,635,70.56
-STD051,Advocate Mukundan Panicker,16,"732, Market Road, Kollam",40,89,95,41,74,63,64,47,63,576,64.0
-STD052,Advocate Mukundan Nambiar,15,"86, Station Road, Thrissur",88,49,69,44,99,98,95,98,57,697,77.44
-STD053,Advocate Mukundan Warrier,15,"811, River Side, Thrissur",78,59,62,99,60,79,91,97,68,693,77.0
-STD054,Advocate Mukundan Mathew,15,"684, Garden Lane, Kannur",77,41,44,61,60,50,57,74,89,553,61.44
-STD055,Advocate Mukundan Joseph,17,"929, Temple Road, Palakkad",72,72,98,42,73,92,40,91,99,679,75.44
-STD056,Advocate Mukundan Chacko,17,"558, Market Road, Trivandrum",96,41,71,57,83,44,95,88,59,634,70.44
-STD057,Advocate Mukundan Fernandes,18,"616, Lake View, Kochi",97,85,62,74,69,96,95,94,84,756,84.0
-STD058,Advocate Mukundan Khan,16,"345, Airport Road, Trivandrum",61,77,48,70,96,79,77,45,100,653,72.56
-STD059,Advocate Mukundan Haji,18,"130, MG Road, Kollam",92,52,67,88,94,41,81,41,67,623,69.22
-STD060,Advocate Mukundan Siddique,18,"786, Airport Road, Trivandrum",74,76,91,44,50,50,79,72,61,597,66.33
-STD061,Appukuttan Nair,16,"984, Airport Road, Trivandrum",69,98,43,63,71,87,43,72,41,587,65.22
-STD062,Appukuttan Menon,17,"517, River Side, Kozhikode",82,68,57,96,87,57,46,67,79,639,71.0
-STD063,Appukuttan Pillai,18,"636, River Side, Alappuzha",74,59,40,40,69,44,95,52,76,549,61.0
-STD064,Appukuttan Varma,17,"927, Garden Lane, Thrissur",63,59,79,93,83,45,62,46,69,599,66.56
-STD065,Appukuttan Kurup,17,"179, Market Road, Kozhikode",42,59,43,95,67,58,81,48,63,556,61.78
-STD066,Appukuttan Panicker,16,"777, Market Road, Palakkad",97,98,69,78,74,69,84,91,51,711,79.0
-STD067,Appukuttan Nambiar,16,"688, Garden Lane, Malappuram",100,77,68,87,96,62,65,89,86,730,81.11
-STD068,Appukuttan Warrier,18,"524, Lake View, Kollam",53,57,82,46,45,43,75,73,88,562,62.44
-STD069,Appukuttan Mathew,16,"845, College Road, Alappuzha",61,98,87,87,90,84,88,70,72,737,81.89
-STD070,Appukuttan Joseph,16,"418, MG Road, Thrissur",69,40,41,72,81,53,86,47,95,584,64.89
-STD071,Appukuttan Chacko,16,"201, River Side, Kannur",89,51,77,40,91,89,60,51,99,647,71.89
-STD072,Appukuttan Fernandes,16,"373, MG Road, Kozhikode",99,62,64,83,87,87,79,46,81,688,76.44
-STD073,Appukuttan Khan,18,"600, Garden Lane, Kottayam",86,81,63,75,91,42,57,99,83,677,75.22
-STD074,Appukuttan Haji,17,"548, River Side, Kollam",59,93,86,95,48,45,71,47,45,589,65.44
-STD075,Appukuttan Siddique,17,"166, College Road, Kochi",79,87,44,58,66,60,75,51,77,597,66.33
-STD076,Dasan Nair,17,"121, River Side, Kottayam",72,72,89,54,52,95,47,51,76,608,67.56
-STD077,Dasan Menon,16,"650, MG Road, Thrissur",50,48,57,47,73,99,69,63,63,569,63.22
-STD078,Dasan Pillai,17,"446, Garden Lane, Thrissur",43,42,83,50,93,99,64,75,81,630,70.0
-STD079,Dasan Varma,15,"936, College Road, Kochi",91,75,44,71,81,94,70,95,58,679,75.44
-STD080,Dasan Kurup,15,"454, Station Road, Kozhikode",63,71,86,80,75,79,87,85,68,694,77.11
-STD081,Dasan Panicker,16,"349, Station Road, Kochi",65,69,60,52,41,75,95,63,88,608,67.56
-STD082,Dasan Nambiar,15,"404, Garden Lane, Kottayam",85,69,57,57,66,75,90,44,64,607,67.44
-STD083,Dasan Warrier,18,"413, Lake View, Thrissur",50,75,69,96,57,86,80,86,59,658,73.11
-STD084,Dasan Mathew,17,"221, Lake View, Malappuram",93,66,79,55,52,47,71,76,69,608,67.56
-STD085,Dasan Joseph,17,"206, Station Road, Malappuram",55,48,85,51,53,75,94,86,86,633,70.33
-STD086,Dasan Chacko,18,"695, MG Road, Malappuram",64,44,48,57,100,85,94,66,76,634,70.44
-STD087,Dasan Fernandes,18,"790, Temple Road, Malappuram",67,78,65,65,78,83,70,70,47,623,69.22
-STD088,Dasan Khan,18,"709, MG Road, Kottayam",62,44,54,49,74,73,81,73,69,579,64.33
-STD089,Dasan Haji,17,"336, Hill Street, Palakkad",99,96,83,74,72,78,63,57,65,687,76.33
-STD090,Dasan Siddique,16,"16, MG Road, Kochi",58,51,50,42,84,91,75,63,62,576,64.0
-STD091,Vijayan Nair,17,"90, Lake View, Alappuzha",47,43,90,58,90,71,89,60,59,607,67.44
-STD092,Vijayan Menon,18,"529, Station Road, Thrissur",49,76,46,72,96,94,96,90,91,710,78.89
-STD093,Vijayan Pillai,15,"48, College Road, Kochi",62,77,98,86,95,94,56,56,91,715,79.44
-STD094,Vijayan Varma,15,"928, College Road, Kozhikode",66,100,99,44,62,74,43,44,48,580,64.44
-STD095,Vijayan Kurup,15,"635, Station Road, Trivandrum",96,85,49,74,79,46,76,54,74,633,70.33
-STD096,Vijayan Panicker,15,"848, River Side, Thrissur",86,46,48,45,46,41,57,48,68,485,53.89
-STD097,Vijayan Nambiar,17,"38, Hill Street, Kochi",88,92,69,96,90,52,69,90,87,733,81.44
-STD098,Vijayan Warrier,16,"943, Airport Road, Alappuzha",85,41,93,51,61,95,79,88,64,657,73.0
-STD099,Vijayan Mathew,16,"783, MG Road, Alappuzha",76,55,95,43,88,78,90,85,98,708,78.67
-STD100,Vijayan Joseph,16,"490, Station Road, Kollam",84,42,99,44,46,49,54,40,68,526,58.44
-STD101,Vijayan Chacko,15,"814, Market Road, Thrissur",76,47,43,83,87,82,75,95,91,679,75.44
-STD102,Vijayan Fernandes,18,"345, MG Road, Kottayam",51,84,98,73,80,67,94,75,52,674,74.89
-STD103,Vijayan Khan,17,"130, Hill Street, Trivandrum",83,70,86,67,89,81,93,80,89,738,82.0
-STD104,Vijayan Haji,17,"49, Garden Lane, Palakkad",44,85,99,68,44,81,51,73,77,622,69.11
-STD105,Vijayan Siddique,15,"998, River Side, Kannur",92,99,48,79,67,64,67,82,71,669,74.33
-STD106,Ponjikkara Rafi Nair,16,"814, Temple Road, Thrissur",75,80,69,73,41,41,88,80,56,603,67.0
-STD107,Ponjikkara Rafi Menon,18,"434, Temple Road, Kannur",61,44,82,89,82,55,55,69,81,618,68.67
-STD108,Ponjikkara Rafi Pillai,16,"310, Market Road, Palakkad",74,70,84,94,95,85,41,76,91,710,78.89
-STD109,Ponjikkara Rafi Varma,17,"315, Airport Road, Kochi",97,69,57,91,68,61,43,66,44,596,66.22
-STD110,Ponjikkara Rafi Kurup,18,"166, Temple Road, Kochi",72,59,76,90,88,72,74,53,54,638,70.89
-STD111,Ponjikkara Rafi Panicker,18,"240, Market Road, Alappuzha",50,81,58,52,46,85,85,92,44,593,65.89
-STD112,Ponjikkara Rafi Nambiar,18,"164, Temple Road, Kochi",96,70,55,69,80,85,46,96,69,666,74.0
-STD113,Ponjikkara Rafi Warrier,16,"110, Lake View, Malappuram",56,82,56,55,60,95,77,47,50,578,64.22
-STD114,Ponjikkara Rafi Mathew,15,"53, Lake View, Trivandrum",69,49,83,56,50,73,85,63,83,611,67.89
-STD115,Ponjikkara Rafi Joseph,18,"948, Station Road, Kochi",75,99,86,51,60,79,57,93,88,688,76.44
-STD116,Ponjikkara Rafi Chacko,16,"158, Station Road, Kollam",94,46,42,58,45,55,59,46,44,489,54.33
-STD117,Ponjikkara Rafi Fernandes,18,"620, Airport Road, Kannur",49,81,69,42,66,83,63,80,99,632,70.22
-STD118,Ponjikkara Rafi Khan,17,"217, River Side, Kollam",59,77,87,82,71,43,66,98,70,653,72.56
-STD119,Ponjikkara Rafi Haji,18,"124, Market Road, Palakkad",56,89,48,65,62,68,76,100,83,647,71.89
-STD120,Ponjikkara Rafi Siddique,18,"653, Market Road, Kochi",75,93,72,45,91,55,86,98,54,669,74.33
-STD121,Pappu Nair,15,"400, Temple Road, Kannur",44,59,69,63,66,86,42,68,70,567,63.0
-STD122,Pappu Menon,18,"603, River Side, Kochi",83,50,59,80,59,44,82,99,84,640,71.11
-STD123,Pappu Pillai,17,"785, Station Road, Palakkad",50,78,55,78,96,51,70,52,65,595,66.11
-STD124,Pappu Varma,17,"474, Temple Road, Trivandrum",99,66,90,53,93,81,74,47,85,688,76.44
-STD125,Pappu Kurup,18,"231, Airport Road, Kollam",64,92,48,48,97,70,86,43,74,622,69.11
-STD126,Pappu Panicker,15,"961, Lake View, Alappuzha",61,44,85,64,55,57,60,82,80,588,65.33
-STD127,Pappu Nambiar,16,"244, Garden Lane, Palakkad",78,48,97,47,62,50,52,50,70,554,61.56
-STD128,Pappu Warrier,16,"67, College Road, Kottayam",44,51,43,88,72,97,75,64,66,600,66.67
-STD129,Pappu Mathew,15,"842, Lake View, Malappuram",45,96,49,51,54,67,47,44,97,550,61.11
-STD130,Pappu Joseph,17,"888, Station Road, Kollam",52,62,100,95,89,52,90,74,71,685,76.11
-STD131,Pappu Chacko,16,"677, Garden Lane, Alappuzha",68,67,55,73,51,70,68,49,51,552,61.33
-STD132,Pappu Fernandes,17,"897, Hill Street, Trivandrum",42,78,69,76,41,87,52,69,43,557,61.89
-STD133,Pappu Khan,18,"980, Lake View, Thrissur",62,44,59,51,65,98,94,72,45,590,65.56
-STD134,Pappu Haji,16,"334, Airport Road, Malappuram",50,75,59,65,72,51,99,84,58,613,68.11
-STD135,Pappu Siddique,18,"779, River Side, Kozhikode",92,92,65,75,46,54,94,71,59,648,72.0
-STD136,Kuttan Pillai Nair,15,"615, MG Road, Alappuzha",96,50,76,45,59,51,100,82,94,653,72.56
-STD137,Kuttan Pillai Menon,18,"625, Station Road, Trivandrum",92,86,41,52,91,42,100,63,99,666,74.0
-STD138,Kuttan Pillai Pillai,18,"836, Lake View, Kottayam",81,97,99,87,84,88,51,64,88,739,82.11
-STD139,Kuttan Pillai Varma,16,"188, Market Road, Thrissur",51,86,41,98,44,85,71,52,47,575,63.89
-STD140,Kuttan Pillai Kurup,16,"411, Temple Road, Thrissur",61,88,84,59,63,50,54,71,88,618,68.67
-STD141,Kuttan Pillai Panicker,15,"443, Station Road, Thrissur",57,69,69,48,96,44,41,64,100,588,65.33
-STD142,Kuttan Pillai Nambiar,18,"834, Hill Street, Kozhikode",95,74,42,81,47,95,43,91,75,643,71.44
-STD143,Kuttan Pillai Warrier,17,"958, Temple Road, Kollam",44,86,40,64,72,78,79,98,56,617,68.56
-STD144,Kuttan Pillai Mathew,17,"785, College Road, Trivandrum",67,50,96,57,79,41,89,77,50,606,67.33
-STD145,Kuttan Pillai Joseph,16,"311, Garden Lane, Kollam",74,48,83,94,70,53,54,69,48,593,65.89
-STD146,Kuttan Pillai Chacko,16,"949, Airport Road, Kannur",79,62,63,60,64,87,86,46,53,600,66.67
-STD147,Kuttan Pillai Fernandes,17,"163, Market Road, Kannur",55,52,96,64,87,95,96,75,59,679,75.44
-STD148,Kuttan Pillai Khan,18,"20, Airport Road, Kollam",89,52,69,89,83,98,49,66,81,676,75.11
-STD149,Kuttan Pillai Haji,16,"493, Station Road, Kottayam",40,64,79,68,45,43,43,48,52,482,53.56
-STD150,Kuttan Pillai Siddique,15,"347, Garden Lane, Trivandrum",40,56,45,44,78,65,92,80,66,566,62.89
+300657,Dasan,21,Nadodikkattu,68,85,64,59,82,68,77,70,79,652,72.44444444444444
+300658,Vijayan,16,Nadodikkattu,94,60,53,77,56,71,55,88,56,610,67.77777777777779
+300659,Ramanan,18,Punjabi House,69,75,73,40,82,71,84,90,75,659,73.22222222222223
+300660,Mannar Mathai,20,Ramji Rao Speaking,93,75,89,85,72,69,62,57,98,700,77.77777777777779
+300661,Gopalakrishnan,15,Godfather,88,75,67,54,60,64,73,99,72,652,72.44444444444444
+300662,Appukuttan,21,In Harihar Nagar,77,71,80,89,84,84,55,72,97,709,78.77777777777779
+300663,Mahadevan,17,In Harihar Nagar,61,69,98,77,73,86,58,73,95,690,76.66666666666667
+300664,Govindan Kutty,20,In Harihar Nagar,41,73,40,74,44,45,69,54,94,534,59.333333333333336
+300665,Thomaskutty,20,In Harihar Nagar,65,69,72,41,53,63,65,91,78,597,66.33333333333333
+300666,Pachalam Bhasi,20,Udayananu Tharam,62,41,87,75,74,78,73,43,53,586,65.11111111111111
+300667,Nischal,19,Kilukkam,71,56,57,97,87,84,79,76,45,652,72.44444444444444
+300668,Arjun,17,CID Moosa,69,52,50,66,54,74,58,44,78,545,60.55555555555555
+300669,Thorappan Kochunni,18,CID Moosa,93,54,44,44,98,67,74,60,52,586,65.11111111111111
+300670,Shaji Pappan,17,Aadu,84,91,63,43,77,83,71,53,76,641,71.22222222222221
+300671,Ponnappan,19,Meesa Madhavan,63,87,65,42,65,53,54,63,89,581,64.55555555555556
+300672,Adv. Lal Krishna Viradiyar,15,Godfather,77,55,58,91,53,58,94,61,59,606,67.33333333333333
+300673,Aravindan,19,Chithram,59,59,94,53,51,62,45,63,71,557,61.88888888888889
+300674,Sankaran Kutty,18,Vettam,79,50,59,64,56,63,52,42,89,554,61.55555555555555
+300675,Urumis Thampuran,18,Kochi Rajavu,42,49,59,40,40,49,48,42,49,418,46.44444444444444
+300676,Pyari,22,Kalyanaraman,89,54,40,45,74,76,75,71,88,612,68.0
+300677,Dance Master Vikram,20,Chathikkatha Chandu,76,90,63,41,70,80,67,60,41,588,65.33333333333333
+300678,Kannan Srank,17,Mayavi,87,68,87,92,53,88,62,63,78,678,75.33333333333333
+300679,Kottappally Prabhakaran,22,Sandesham,57,59,73,92,83,89,72,51,54,630,70.0
+300680,Thalathil Dineshan,17,Vadakkunokkiyantram,66,44,58,55,86,61,79,97,51,597,66.33333333333333
+300681,Adv. Govindan,21,Ramji Rao Speaking,75,74,88,56,87,79,51,89,59,658,73.11111111111111
+300682,SI Peethambaran,18,Ramji Rao Speaking,52,60,55,50,58,52,52,53,40,472,52.44444444444445
+300683,Thankappan,15,Punjabi House,56,54,48,45,56,54,51,58,52,474,52.666666666666664
+300684,Peethambaran,19,CID Moosa,62,42,80,85,62,68,55,54,75,583,64.77777777777777
+300685,Manavalan,20,Kalyanaraman,70,62,75,76,52,88,100,71,63,657,73.0
+300686,Sundaran,16,Pulival Kalyanam,90,77,71,55,51,70,63,98,63,638,70.88888888888889
+300687,Kunjoonju,16,Ee Parakkum Thalika,41,53,60,81,43,97,56,45,69,545,60.55555555555555
+300688,Veerappan Kurup,19,Mannar Mathai Speaking,80,78,66,83,54,78,51,40,78,608,67.55555555555556
+300689,Kunjikannan,21,Meesha Madhavan,48,57,55,59,53,48,60,40,46,466,51.77777777777778
+300690,Vasu Annan,17,Pandippada,87,83,88,83,97,86,62,87,65,738,82.0
+300691,Ummagandhan,17,Pandippada,56,75,41,67,41,95,83,40,40,538,59.77777777777777
+300692,Bhasi,19,Pandippada,82,57,78,60,82,78,67,56,96,656,72.88888888888889
+300693,Avarachan,21,Godfather,87,71,76,71,45,79,50,86,85,650,72.22222222222221
+300694,Kurup,18,Kilukkam,66,40,63,53,84,77,60,42,72,557,61.88888888888889
+300695,Pappan,15,Thilakkam,81,82,87,60,69,99,68,90,73,709,78.77777777777779
+300696,Kunjappan,19,Kalyana Raman,87,56,92,89,97,85,92,87,88,773,85.88888888888889
+300697,Balan,17,Thoovalsparsham,88,67,55,57,64,79,61,41,74,586,65.11111111111111
+300698,Kunjikrishnan,19,Junior Mandrake,53,95,51,65,52,63,56,95,88,618,68.66666666666667
+300699,Mandrake,16,Junior Mandrake,41,43,50,83,57,45,51,61,82,513,56.99999999999999
+300700,Dr. Sunny,17,Manichitrathazhu,55,76,53,57,100,90,69,62,88,650,72.22222222222221
+300701,Kunjappu,16,Thilakkam,68,55,62,83,54,68,64,79,42,575,63.888888888888886
+300702,Swami Rajaguru,20,Teja Bhai and Family,43,41,53,47,44,40,60,57,54,439,48.77777777777778
+300703,Raj Bose,22,Happy Husbands,41,64,41,87,41,95,55,52,81,557,61.88888888888889
+300704,Rajappan,19,Punjabi House,51,74,85,88,52,97,82,57,42,628,69.77777777777779
+300705,Kunjunni,15,Kilichundan Mampazham,63,91,85,83,59,82,43,94,65,665,73.88888888888889
+300706,Shankaran,20,Godfather,77,67,51,57,99,61,68,72,58,610,67.77777777777779
+300707,Velayudhan,15,Chattambinadu,50,55,70,70,41,75,83,85,59,588,65.33333333333333
+300708,Pappu Chettan,22,Aadu,84,72,73,59,82,59,80,61,88,658,73.11111111111111
+300709,Sakhavu,17,Sandesham,85,54,42,85,62,91,45,77,41,582,64.66666666666666
+300710,Kochappan,19,My Boss,79,51,92,83,56,85,92,80,64,682,75.77777777777777
+300711,Kurishingal Jose,16,Aadu,59,65,82,66,59,91,53,75,99,649,72.11111111111111
+300712,Lolan,17,Aadu,43,91,45,57,56,61,63,70,97,583,64.77777777777777
+300713,Sura,20,Kunjiramayanam,86,89,88,77,83,81,64,40,73,681,75.66666666666667
+300714,Kuttan,20,Kunjiramayanam,49,58,55,52,50,53,47,40,60,464,51.55555555555556
+300715,Ambrose,15,Kunjiramayanam,82,42,80,60,69,79,100,90,40,642,71.33333333333334
+300716,Vasu,15,Kunjiramayanam,84,91,88,62,63,79,43,43,78,631,70.11111111111111
+300717,Arakkal Abu,21,Salt N Pepper,85,57,77,89,66,73,82,60,54,643,71.44444444444444
+300718,Babumon,15,Salt N Pepper,47,49,59,59,53,53,54,55,54,483,53.666666666666664
+300719,Kuttappan,18,Amen,57,57,41,42,47,59,58,41,57,459,51.0
+300720,Solomon,16,Amen,77,60,71,61,77,83,55,72,56,612,68.0
+300721,Dasan (Android),16,Android Kunjappan,58,51,45,49,43,60,54,42,42,444,49.333333333333336
+300722,Kunjappan Robot,22,Android Kunjappan,80,40,63,78,83,82,53,71,73,623,69.22222222222221
+300723,Bibi,17,Romancham,51,51,52,42,59,47,40,53,48,443,49.22222222222222
+300724,Sinu,21,Romancham,53,42,41,89,82,55,50,67,73,552,61.33333333333333
+300725,Jibi,15,Romancham,46,41,50,44,48,47,60,54,52,442,49.111111111111114
+300726,Niroop,18,Romancham,41,79,92,66,93,69,71,79,65,655,72.77777777777777
+300727,Kora,22,Sudani From Nigeria,63,40,84,58,50,67,40,72,53,527,58.55555555555556
+300728,Majeed,18,Sudani From Nigeria,54,45,85,51,65,55,99,43,60,557,61.88888888888889
+300729,Mahesh,19,Maheshinte Prathikaaram,79,57,64,69,63,80,71,71,86,640,71.11111111111111
+300730,Baby,18,Maheshinte Prathikaaram,66,78,72,71,84,60,51,83,81,646,71.77777777777777
+300731,Soumya,21,Maheshinte Prathikaaram,62,80,92,98,84,88,51,74,64,693,77.0
+300732,Kannan,21,Minnal Murali,54,59,75,71,74,58,74,81,45,591,65.66666666666666
+300733,Josemon,21,Minnal Murali,80,69,92,55,88,61,64,56,55,620,68.88888888888889
+300734,Shibu,19,Minnal Murali,43,43,49,42,58,49,60,45,59,448,49.77777777777778
+300735,Dashamoolam Damu,21,Chattambinadu,40,57,82,54,52,72,88,58,56,559,62.11111111111111
